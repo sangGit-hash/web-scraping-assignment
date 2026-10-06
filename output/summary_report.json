@@ -1,0 +1,13 @@
+{
+    "execution_time_seconds": 97.15,
+    "total_records_collected": 1100,
+    "records_per_source": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100
+    },
+    "records_after_cleaning": 1100,
+    "records_rejected_validation": 0,
+    "duplicate_records_removed": 1,
+    "final_record_count": 1099,
+    "validation_rejections_sample": []
+}
